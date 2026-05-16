@@ -24,7 +24,7 @@ Hands-on Microsoft Identity & Access Management projects focused on Entra ID, Co
 - Used Azure Activity logs + KQL to detect unauthorized actions
 - Restored least privilege and documented remediation steps
 
-[Watch Video] (https://youtu.be/_B3MOxbdryM?si=Hlm6__qPhsgoDXL8)
+[Watch Video](https://youtu.be/_B3MOxbdryM?si=Hlm6__qPhsgoDXL8)
 
 ### Identity Lifecycle (JML) Automation Simulation
 - Modeled Joiner-Mover-Leaver workflows using Entra ID groups, dynamic rules, and access packages
